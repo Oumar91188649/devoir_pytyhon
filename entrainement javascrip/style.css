@@ -1,0 +1,56 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+}
+img {
+    border-radius:40%;
+     width: 40%;
+     float: right;
+     margin-top: 50px;
+    
+}
+body {
+background-color: coral;
+filter: grayscale(20%);
+}
+.aminou {
+    color: darkviolet;
+}
+.baba {
+    font-size: 50px;
+    margin: 50px;
+}
+.menu {
+    color: goldenrod;
+}
+.bacterio {
+    font-size: 40px;
+  text-transform:lowercase;
+  color:blue
+}
+.ok {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 600px;
+    text-align: left;
+
+}
+footer {
+    margin: 100px;
+}
+button {
+    margin: 100px;
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+      
+    
+
+
